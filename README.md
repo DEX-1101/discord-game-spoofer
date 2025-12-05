@@ -7,7 +7,9 @@ Can be used to completed discord quest that require you to play the game without
 All you need just input the game EXE filename in the app and boom.
 
 # How to Install
-Download app here :
+Download app directly [here](https://github.com/DEX-1101/discord-game-spoofer/releases/download/windows/Discord.Game.Spoofer.exe)
+
+or on the [releases](https://github.com/DEX-1101/discord-game-spoofer/releases) tab.
 
 # Notes
 **Not ALL GAME WILL GUARANTEED TO WORK**, but most game and newly release one that appear on discord quest page should work.
